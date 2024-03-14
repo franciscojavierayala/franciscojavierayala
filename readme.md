@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador de software al cual le encanta aprender nuevas habilidades en este maravilloso mundo que es el desarrollo de software.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador al cual le encanta aprender nuevas habilidades en este maravilloso mundo del software.
 
 ## Mis habilidades
 
