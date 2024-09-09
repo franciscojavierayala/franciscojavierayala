@@ -11,9 +11,8 @@
 
 ## Mis Proyectos
 
-- [BanditChase](github.com/franciscojavierayala/BanditChase): Juego simple de conduccion retro.
-[Texto del enlace](https://github.com/franciscojavierayala/ClubNautico)
-API para un proyecto de un club náutico utilizando Spring Boot.
+- [BanditChase](https://github.com/franciscojavierayala/BanditChase): Juego simple de conduccion retro.
+- [Club Nautico](https://github.com/franciscojavierayala/ClubNautico): API para un proyecto de un club náutico utilizando Spring Boot.
 
 ## Cómo contactarme
 Puedes encontrarme en [LinkedIn](linkedin.com/in/francisco-javier-ayala-parejo/).   No dudes en enviarme un mensaje si tienes alguna pregunta o simplemente quieres charlar.
